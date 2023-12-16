@@ -1,5 +1,7 @@
 namespace Truco;
 
+// Clase que representa una carta
+
 public class Carta
 {
     public int Valor { get; set; }
